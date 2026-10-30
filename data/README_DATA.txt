@@ -1,0 +1,1 @@
+Put your appropriately sourced malaria dataset here and name it malaria_dataset.csv. The CSV must contain the required columns listed in the main README. No synthetic patient dataset is included because invented symptom/label relationships would not support valid clinical claims.
